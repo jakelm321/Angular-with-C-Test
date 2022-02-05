@@ -5,6 +5,7 @@ namespace WebAppTest2.Models
 {
     public class PaymentDetail
     {
+        //Hello
         [Key]
         public int PaymentDetailId { get; set; }
 
